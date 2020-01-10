@@ -1,2 +1,3 @@
-# randomquotegenerator
-FCC: Random quote generator
+# React, Redux, Sass Boilerplate
+This boilerplate is for my personal use.
+
